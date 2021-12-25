@@ -15,7 +15,7 @@ brew "zsh"
 brew "zsh-autosuggestions"
 brew "zsh-completions"
 brew "zsh-syntax-highlighting"
-brew "schniz/tap/fnm"
+brew "fnm"
 
 # Casks
 cask "appcleaner"
