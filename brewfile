@@ -1,7 +1,7 @@
 # specify directory to install
 cask_args appdir: "/Applications"
 
-# install packages
+# install packages + some apps
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
@@ -16,6 +16,8 @@ brew "zsh-autosuggestions"
 brew "zsh-completions"
 brew "zsh-syntax-highlighting"
 brew "fnm"
+brew "bitwarden"
+brew "notion"
 
 # Casks
 cask "appcleaner"
@@ -30,3 +32,6 @@ cask "google-chrome"
 cask "zoom"
 cask "slack"
 cask "spotify"
+
+# Remove outdated versions from the cellar.
+brew cleanup
