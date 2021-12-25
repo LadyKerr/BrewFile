@@ -11,7 +11,7 @@ Be sure to include this command in your brewfile:
 
 ```$ brew tap Homebrew/bundle``` 
 
-You can see mine here for inspiration: [my brewfile](https://github.com/LadyKerr/BrewFile/blob/main/brewfile)
+You can see mine here for inspiration: [my brewfile](https://github.com/LadyKerr/BrewFile/blob/main/brewfile.sh)
 
 ### Step 2:
 Install [Homebrew](https://brew.sh) by pasting this command in your terminal:
