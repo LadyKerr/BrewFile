@@ -1,5 +1,6 @@
 # specify directory to install
 cask_args appdir: "/Applications"
+
 # install packages
 tap "homebrew/bundle"
 tap "homebrew/cask"
@@ -15,6 +16,7 @@ Brew "zsh-autosuggestions"
 brew "zsh-completions"
 brew "zsh-syntax-highlighting"
 brew "schniz/tap/fnm"
+
 # Casks
 cask "appcleaner"
 cask "fork"
