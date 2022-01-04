@@ -16,10 +16,10 @@ brew "zsh-autosuggestions"
 brew "zsh-completions"
 brew "zsh-syntax-highlighting"
 brew "fnm"
-brew "bitwarden"
-brew "notion"
 
 # Casks
+cask "bitwarden"
+cask "notion"
 cask "appcleaner"
 cask "fork"
 cask "insomnia"
