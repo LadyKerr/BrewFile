@@ -33,5 +33,3 @@ cask "zoom"
 cask "slack"
 cask "spotify"
 
-# Remove outdated versions from the cellar.
-brew cleanup
