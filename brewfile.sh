@@ -19,6 +19,7 @@ brew "fnm"
 
 # Casks
 cask "bitwarden"
+cask "adobe-creative-cloud"
 cask "notion"
 cask "appcleaner"
 cask "fork"
@@ -32,4 +33,6 @@ cask "google-chrome"
 cask "zoom"
 cask "slack"
 cask "spotify"
+cask "obsidian"
+cask "postman"
 
