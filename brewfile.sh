@@ -18,12 +18,14 @@ brew "zsh-syntax-highlighting"
 brew "fnm"
 brew 'watchman'
 brew 'pandoc'
+brew "gifski"
 
 # Casks
 cask "bitwarden"
 cask "notion"
 cask "appcleaner"
 cask "fork"
+cask "screen-studio"
 cask "iterm2"
 cask "rectangle"
 cask "macdown"
