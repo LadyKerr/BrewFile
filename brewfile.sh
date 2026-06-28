@@ -6,7 +6,7 @@ tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
 tap "schniz/tap"
-brew "mas"
+brew 'gh'
 brew "trash"
 brew "python"
 brew "node"
@@ -16,23 +16,23 @@ brew "zsh-autosuggestions"
 brew "zsh-completions"
 brew "zsh-syntax-highlighting"
 brew "fnm"
+brew 'watchman'
+brew 'pandoc'
 
 # Casks
 cask "bitwarden"
-cask "adobe-creative-cloud"
 cask "notion"
 cask "appcleaner"
 cask "fork"
-cask "insomnia"
-cask "postman"
 cask "iterm2"
 cask "rectangle"
 cask "macdown"
+cask 'obs'
 cask "visual-studio-code"
 cask "google-chrome"
 cask "zoom"
 cask "slack"
 cask "spotify"
 cask "obsidian"
-cask "postman"
+cask "insomnia"
 
